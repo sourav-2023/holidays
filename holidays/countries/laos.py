@@ -120,7 +120,7 @@ class Laos(ObservedHolidayBase, InternationalHolidays, StaticHolidays, ThaiCalen
 
         # ບຸນປີໃໝ່ລາວ
         # Status: In-Use.
-        # Celebrated for 3 days from 14-16 April annualy.
+        # Celebrated for 3 days from 14-16 April annually.
         # Observed dates prior to 2018 are assigned manually.
 
         # Lao New Year's Day.
@@ -295,7 +295,7 @@ class Laos(ObservedHolidayBase, InternationalHolidays, StaticHolidays, ThaiCalen
 
         # ວັນປ່ອຍປາ ແລະ ວັນອະນຸລັກສັດນ້ຳ-ສັດປ່າແຫ່ງຊາດ
         # Status: In-Use.
-        # First designated in 1997 to concide with Souphanouvong's Birthday anniversary.
+        # First designated in 1997 to coincide with Souphanouvong's Birthday anniversary.
 
         if self._year >= 1997:
             # The National Day for Wildlife and Aquatic Animal Conservation.
